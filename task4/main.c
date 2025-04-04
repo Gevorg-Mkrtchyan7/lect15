@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-int pos_neg(int, int);
+int flo(int, int);
 
 int main(){
 	int a = 3;
 	int b = 4;
+	flo(a, b);	
 }
-
