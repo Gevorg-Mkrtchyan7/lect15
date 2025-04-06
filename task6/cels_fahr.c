@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.c"
 
 float cels_fahr(float c){
